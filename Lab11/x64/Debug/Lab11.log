@@ -1,0 +1,8 @@
+﻿  Lab11.cpp
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(254,47): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(257,51): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(276,39): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(279,43): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(297,39): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\gmsokolov\Desktop\WinProjects\Lab11\Lab11.cpp(300,43): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  Lab11.vcxproj -> C:\Users\gmsokolov\Desktop\WinProjects\Lab11\x64\Debug\Lab11.exe

@@ -1,0 +1,5 @@
+﻿  FN21621397LAB07.cpp
+C:\Users\gmsokolov\Desktop\WinProjects\FN21621397LAB07\FN21621397LAB07.cpp(134,10): warning C4101: 'uRes': unreferenced local variable
+C:\Users\gmsokolov\Desktop\WinProjects\FN21621397LAB07\FN21621397LAB07.cpp(258,40): warning C4101: 'e': unreferenced local variable
+C:\Users\gmsokolov\Desktop\WinProjects\FN21621397LAB07\FN21621397LAB07.cpp(336,40): warning C4101: 'e': unreferenced local variable
+  FN21621397LAB07.vcxproj -> C:\Users\gmsokolov\Desktop\WinProjects\FN21621397LAB07\x64\Debug\FN21621397LAB07.exe
